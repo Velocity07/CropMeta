@@ -1,3 +1,21 @@
+<div align="center">
+  <img src="hero.png" alt="CropMeta Hero Banner" width="100%" />
+
+  <h1>CropMeta</h1>
+  <p>
+    <strong>Decoupled full-stack ML platform for optimal crop-yield prediction via microclimate &amp; soil telemetry probability mapping.</strong>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  </p>
+</div>
+
+---
+
 # 🌱 CropMeta: AI-Powered Smart Agriculture Architecture
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
